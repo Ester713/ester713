@@ -17,7 +17,6 @@ I am an aspiring Cloud and DevOps Engineer currently in a hands-on IT training p
 - 🌱 Currently learning **Cloud Engineering, DevOps, and AWS Infrastructure**
 - 🔭 Building full-stack applications on **AWS**
 - 💡 Passionate about **automation, reliability, and cloud security**
-- 📍 Based in **Fort Worth, TX**
 - 🎯 Goal: **AWS Solutions Architect Associate certification**
 
 ---
